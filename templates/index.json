@@ -1,0 +1,83 @@
+{
+  "sections": {
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured products",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all",
+        "products_to_show": 8,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-1",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 28,
+        "padding_bottom": 36
+      }
+    },
+    "custom_image_with_text_j96mfG": {
+      "type": "custom-image-with-text",
+      "blocks": {
+        "subheading_iV6ghm": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "<strong>Dr. Erine Sanderson<\/strong>",
+            "subheading_color": "#fda21e"
+          }
+        },
+        "heading_8hDzNh": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Veterinarian-Approved<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_LAYzH8": {
+          "type": "text",
+          "settings": {
+            "text": "<p>All products from Dr. Ernie's vetted and approved by qualified veterinarian, ensuring top-quality care for your pet<\/p>"
+          }
+        },
+        "button_V6Npn8": {
+          "type": "button",
+          "settings": {
+            "button_label": "View products",
+            "button_link": "#"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_iV6ghm",
+        "heading_8hDzNh",
+        "text_LAYzH8",
+        "button_V6Npn8"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/pexels-mikhail-nilov-7469222_1.jpg",
+        "badge_image": "shopify:\/\/shop_images\/DALL_E_2024-01-22_12.02.58_-_Design_a_badge_with_a_professional_and_trustworthy_look_intended_for_approval_by_veterinarians._The_badge_should_feature_a_paw_print_and_a_stethoscop-2.png",
+        "desktop_layout": "left",
+        "mobile_layout": "top",
+        "section_color_scheme": "scheme-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "featured_collection",
+    "custom_image_with_text_j96mfG"
+  ]
+}
